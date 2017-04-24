@@ -1,0 +1,22 @@
+{
+  "name": "ConsultantBase",
+  "version": "0.6.0",
+  "summary": "A short description of ConsultantBase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://coding.net/u/Mikes/p/ConsultantBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kenvin": "yaoyj@oriental-finance.com"
+  },
+  "source": {
+    "git": "https://git.coding.net/Mikes/ConsultantBase.git",
+    "tag": "0.6.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ConsultantBase/Classes/**/*"
+}

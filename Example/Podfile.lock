@@ -1,0 +1,16 @@
+PODS:
+  - ConsultantBase (0.6.0)
+
+DEPENDENCIES:
+  - ConsultantBase (from `../`)
+
+EXTERNAL SOURCES:
+  ConsultantBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ConsultantBase: daa76af4d1b41ee0007b85cb958d72b4b05d5eca
+
+PODFILE CHECKSUM: 726a1f6e4cefcfb5989af15a2f63a1aa976f2c4e
+
+COCOAPODS: 1.2.1
